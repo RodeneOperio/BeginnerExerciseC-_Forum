@@ -1,5 +1,5 @@
 ﻿/*
-											Grading Program
+							Grading Program
 					Requires:
 					variables, data types, and numerical operators
 					basic input/output
