@@ -17,7 +17,6 @@ If the user scored a 100 then notify the user that they got a perfect score.
 
 #include "pch.h"
 #include <iostream>
-#include <string>
 
 using namespace std;
 
